@@ -59516,3 +59516,72 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1696073837.6057
     'REQUEST_TIME' => 1696073837
 ]
+2023-10-29 02:13:18 [49.204.176.223][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 49.204.176.223
+    in /home/u981928477/domains/thebotx.com/public_html/mine/admin/frontend/views/layouts/main.php:146
+    in /home/u981928477/domains/thebotx.com/public_html/mine/admin/frontend/controllers/SiteController.php:212
+2023-10-29 02:13:18 [49.204.176.223][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 49.204.176.223
+2023-10-29 02:13:18 [49.204.176.223][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_ga' => 'GA1.2.1591322215.1688632534'
+    '_ga_9Q6H0QETRF' => 'GS1.2.1692551342.1.1.1692551503.60.0.0'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'LSPHP_ProcessGroup' => 'on'
+    'PATH' => '/usr/local/bin:/bin:/usr/bin'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,bn;q=0.8'
+    'HTTP_COOKIE' => '_ga=GA1.2.1591322215.1688632534; _ga_9Q6H0QETRF=GS1.2.1692551342.1.1.1692551503.60.0.0'
+    'HTTP_HOST' => 'www.thebotx.com'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"macOS\"'
+    'DOCUMENT_ROOT' => '/home/u981928477/domains/thebotx.com/public_html'
+    'REMOTE_ADDR' => '49.204.176.223'
+    'REMOTE_PORT' => '18307'
+    'SERVER_ADDR' => '89.117.27.174'
+    'SERVER_NAME' => 'www.thebotx.com'
+    'SERVER_ADMIN' => ''
+    'SERVER_PORT' => '443'
+    'REQUEST_SCHEME' => 'https'
+    'REQUEST_URI' => '/mine/admin/'
+    'REDIRECT_URL' => '/mine/admin/'
+    'REDIRECT_REQUEST_METHOD' => 'GET'
+    'HTTPS' => 'on'
+    'CRAWLER_USLEEP' => '1000'
+    'CRAWLER_LOAD_LIMIT_ENFORCE' => '25'
+    'REDIRECT_STATUS' => '200'
+    'X_SPDY' => 'HTTP2'
+    'SSL_PROTOCOL' => 'TLSv1.3'
+    'SSL_CIPHER' => 'TLS_AES_128_GCM_SHA256'
+    'SSL_CIPHER_USEKEYSIZE' => '128'
+    'SSL_CIPHER_ALGKEYSIZE' => '128'
+    'SCRIPT_FILENAME' => '/home/u981928477/domains/thebotx.com/public_html/mine/admin/frontend/web/index.php'
+    'QUERY_STRING' => ''
+    'SCRIPT_URI' => 'https://www.thebotx.com/mine/admin/'
+    'SCRIPT_URL' => '/mine/admin/'
+    'SCRIPT_NAME' => '/mine/admin/frontend/web/index.php'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_SOFTWARE' => 'LiteSpeed'
+    'REQUEST_METHOD' => 'GET'
+    'X-LSCACHE' => 'on,crawler,esi,combine'
+    'PHP_SELF' => '/mine/admin/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1698545598.6869
+    'REQUEST_TIME' => 1698545598
+]
